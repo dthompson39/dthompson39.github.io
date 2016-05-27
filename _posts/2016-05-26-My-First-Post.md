@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "I made it!!!"
 date:   2016-05-27 16:40:32 +0000
 ---
