@@ -1,4 +1,4 @@
 ---
-title: Bank Holiday
+title: Posting remotely
 ---
-Hello, this is my bank holiday post
+Just wanted to test posting remotely using c9.io and then uploading to github
